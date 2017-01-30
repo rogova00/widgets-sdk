@@ -9,7 +9,7 @@
         <p>Виджет №1</p>
         <script language="javascript" type="text/javascript">
               gadgets.util.registerOnLoadHandler(function(){
-                   //alert('Hello, world!');
+                   alert('Hello, world!');
               });
         </script>
        ]]>
